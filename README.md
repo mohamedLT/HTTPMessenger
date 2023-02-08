@@ -1,9 +1,6 @@
-# MyMessenger_Frontend
-A simple messenger clone I made to learn new stuff and explore a bit more this Is the Frontend made using flutter and dart
+# HTTPMessenger
+An Android messaging app built using Flutter and Dart, designed as an experiment to test the difficulty of creating a messaging app using HTTP requests instead of sockets. This project serves as a demonstration of the capabilities of Flutter and Dart in developing real-world mobile applications.
 
-Those are some screenShots :
+The app implements basic messaging functionality, allowing users to send and receive text messages. The communication between the app and the server is handled using HTTP requests, offering an alternative approach to the traditional use of sockets in messaging apps.
 
-![Screenshot_20220804-201844](https://user-images.githubusercontent.com/58748332/182935948-653d2e71-2267-4b25-a2a1-f3690a6936e1.png)
-![Screenshot_20220804-201855](https://user-images.githubusercontent.com/58748332/182935950-e7b79464-b0e8-4f37-9d47-f2c4074a3f4b.png)
-![Screenshot_20220804-201920](https://user-images.githubusercontent.com/58748332/182935953-b0b4b93c-a1ba-4b30-a09a-40a7ff51a8b3.png)
-![Screenshot_20220804-202001](https://user-images.githubusercontent.com/58748332/182935942-b90f5f43-8613-42e4-b8e3-521128e4113c.png)
+This project can serve as a valuable learning resource for those interested in mobile app development with Flutter and Dart, as well as for those curious about the differences between using HTTP requests and sockets for messaging apps.
